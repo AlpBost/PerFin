@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\alpbo\\Downloads\\sqlite-jdbc-3.45.3.0.jar",
+        "c:\\Users\\alpbo\\Downloads\\jfreechart-1.0.19.jar",
+        "c:\\Users\\alpbo\\Downloads\\gson-2.11.0.jar",
+        "c:\\Users\\alpbo\\Downloads\\ojdbc8-21.10.0.0.jar",
+        "c:\\Users\\alpbo\\Downloads\\slf4j-api-1.7.36.jar",
+        "c:\\Users\\alpbo\\Downloads\\jfreechart-1.5.2.jar"
+    
+    ]
+}
